@@ -32,6 +32,7 @@ except ZeroDivisionError:
     print(10/2)
 
 print("hi")
+#this is my new git_hub tutorial no1
 
 #note: Normal termination / graceful termination..
 
